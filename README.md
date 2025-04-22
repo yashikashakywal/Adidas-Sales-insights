@@ -42,8 +42,7 @@ A comprehensive data analysis project on Adidas U.S. sales performance using Exc
   git clone https://github.com/your-username/adidas-sales-analysis.git
 
   
-   ```bash
-   git clone https://github.com/your-username/adidas-sales-analysis.git
+
 
 About Me
 Hi, I'm Yashika Shakywal 👋
