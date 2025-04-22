@@ -41,6 +41,13 @@ A comprehensive data analysis project on Adidas U.S. sales performance using Exc
  Download or clone the repository Adidas-Sales-in
   git clone https://github.com/your-username/adidas-sales-analysis.git
 
+
+Dashboard Preview
+
+
+  
+![adidasSalesInsights](https://github.com/user-attachments/assets/c7ae395f-f326-451a-95dc-e223c9088554)
+
   
 
 
