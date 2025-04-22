@@ -51,6 +51,6 @@ I'm passionate about data analysis, visualization, and turning numbers into deci
 Contact
 Feel free to connect or collaborate:
 📧 Email: [yashika8690@gmail.com]
-🌐 Portfolio: [(https://www.linkedin.com/in/yashika-s-584083283/)]
+🌐 Linkedin: [(https://www.linkedin.com/in/yashika-s-584083283/)]
 
    
