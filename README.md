@@ -45,7 +45,13 @@ A comprehensive data analysis project on Adidas U.S. sales performance using Exc
    ```bash
    git clone https://github.com/your-username/adidas-sales-analysis.git
 
-Dashboard Preview
+About Me
+Hi, I'm Yashika Shakywal 👋
+I'm passionate about data analysis, visualization, and turning numbers into decisions. This project showcases my ability to clean, explore, and communicate insights effectively using real-world datasets.
 
+Contact
+Feel free to connect or collaborate:
+📧 Email: [yashika8690@gmail.com]
+🌐 Portfolio: [(https://www.linkedin.com/in/yashika-s-584083283/)]
 
    
